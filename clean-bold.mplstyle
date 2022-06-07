@@ -251,7 +251,7 @@ lines.markersize      : 10     ## marker size, in points
 #font.variant : normal
 #font.weight  : normal
 #font.stretch : normal
-#font.size    : 10.0
+font.size    : 12.0
 
 #font.serif      : DejaVu Serif, Bitstream Vera Serif, Computer Modern Roman, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
 #font.sans-serif : DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
@@ -442,10 +442,10 @@ axes.formatter.min_exponent : 3  ## minimum exponent to format in scientific not
 #xtick.bottom        : True    ## draw ticks on the bottom side
 #xtick.labeltop      : False   ## draw label on the top
 #xtick.labelbottom   : True    ## draw label on the bottom
-xtick.major.size    : 5     ## major tick size in points
-xtick.minor.size    : 3       ## minor tick size in points
-xtick.major.width   : 1     ## major tick width in points
-#xtick.minor.width   : 0.6     ## minor tick width in points
+xtick.major.size    : 6     ## major tick size in points
+xtick.minor.size    : 4       ## minor tick size in points
+xtick.major.width   : 1.5     ## major tick width in points
+xtick.minor.width   : 1     ## minor tick width in points
 #xtick.major.pad     : 3.5     ## distance to major tick label in points
 #xtick.minor.pad     : 3.4     ## distance to the minor tick label in points
 #xtick.color         : black   ## color of the tick labels
@@ -462,10 +462,10 @@ xtick.major.width   : 1     ## major tick width in points
 #ytick.right         : False   ## draw ticks on the right side
 #ytick.labelleft     : True    ## draw tick labels on the left side
 #ytick.labelright    : False   ## draw tick labels on the right side
-ytick.major.size    : 5     ## major tick size in points
-ytick.minor.size    : 3       ## minor tick size in points
-ytick.major.width   : 1     ## major tick width in points
-#ytick.minor.width   : 0.6     ## minor tick width in points
+ytick.major.size    : 6     ## major tick size in points
+ytick.minor.size    : 4       ## minor tick size in points
+ytick.major.width   : 1.5     ## major tick width in points
+ytick.minor.width   : 1     ## minor tick width in points
 #ytick.major.pad     : 3.5     ## distance to major tick label in points
 #ytick.minor.pad     : 3.4     ## distance to the minor tick label in points
 #ytick.color         : black   ## color of the tick labels
